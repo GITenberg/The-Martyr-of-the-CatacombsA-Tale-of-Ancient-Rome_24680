@@ -1,0 +1,36 @@
+_repo: The-Martyr-of-the-CatacombsA-Tale-of-Ancient-Rome_24680
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: De Mille, James
+    aliases:
+    - DeMille, James
+    - Mille, James de
+    birthdate: 1833
+    deathdate: 1880
+    gutenberg_agent_id: '1482'
+    url: http://www.gutenberg.org/2009/agents/1482
+    wikipedia: http://en.wikipedia.org/wiki/James_De_Mille
+description: Original published anonymously
+gutenberg_issued: '2008-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24680'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcc 'PS'
+- !lcsh 'Historical fiction'
+- !lcsh 'Rome -- History -- Empire, 30 B.C.-284 A.D.'
+- !lcsh 'Christian fiction'
+- !lcsh 'Church history -- Primitive and early church, ca. 30-600 -- Fiction'
+title: 'The Martyr of the Catacombs
+
+  A Tale of Ancient Rome'
+url: http://www.gutenberg.org/ebooks/24680
